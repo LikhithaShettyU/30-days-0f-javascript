@@ -8,6 +8,7 @@ Daily JavaScript lessons — one small concept each day.
 
 - **Day 1:** JavaScript basics, console.log, variables  
 - **Day 2:** Data types, type conversion, operators  
+- **Day 3:** Conditional Statements - if, else, else if, switch
 
 ---
 
