@@ -10,6 +10,7 @@ Daily JavaScript lessons — one small concept each day.
 - Day 2: Data types, type conversion, operators  
 - Day 3: Conditional Statements - if, else, else if, switch
 - Day 4: JavaScript Loops (for, while, do-while, break, continue)
+- Day 5: Functions, Parameters, Return & Arrow Functions
 
 
 ---
